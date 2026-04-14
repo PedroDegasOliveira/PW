@@ -1,0 +1,27 @@
+body{
+background-color: green;
+justify-content: center;
+align-items: center;
+margin: 15;
+display: flex;
+}
+
+.sashapi{
+  width: 40%;
+  height: 20cm;
+  margin: 1%;
+  background-color: rgb(255, 255, 255);
+  justify-content: center;  
+}
+
+form{
+  justify-content: center;
+  display: flex;
+  width: 15cm;
+  align-items: center;
+  
+}
+
+p{
+  padding: 1cm;
+}
