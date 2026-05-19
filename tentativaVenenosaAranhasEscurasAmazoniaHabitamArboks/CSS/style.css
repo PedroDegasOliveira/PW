@@ -1,0 +1,25 @@
+body{
+    background-color: wheat;
+}
+.container{
+display: flexbox;
+margin: 0 auto; 
+padding: 20px;
+background-color: aquamarine;
+margin-top: auto;
+margin-right: 150px;
+height: auto;
+border-radius: 25px;
+
+}
+.divTable{
+    width: 500px;
+    display: flex   ;
+    flex-direction: column;
+    margin: 15px;
+}
+.modal-container{
+    width: 1500px;
+    display: flex;  
+    flex-direction: column;
+}
