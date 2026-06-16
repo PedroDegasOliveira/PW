@@ -155,4 +155,3 @@ const setItensBD = () => localStorage.setItem('dbfunc', JSON.stringify(itens))
 
 
 initializeApp()
-
